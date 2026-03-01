@@ -170,13 +170,8 @@ export const SALON_DATA = {
     {
       name: "Gonçalo Silva",
       role: { pt: "Master Barber", en: "Master Barber", es: "Maestro Barbero" },
-      image: "https://i.ibb.co/B5dryZzg/Captura-de-ecr-2026-03-01-111655.png"
+      image: "https://i.ibb.co/k6kXCcRQ/Captura-de-ecr-2026-03-01-182310.png"
     },
-    {
-      name: "Paulo Silva",
-      role: { pt: "Barbeiro", en: "Barber", es: "Barbero" },
-      image: "https://i.ibb.co/Xr3H5KMZ/Captura-de-ecr-2026-03-01-111713.png"
-    }
   ],
   
   services: [
