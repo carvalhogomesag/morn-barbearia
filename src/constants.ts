@@ -140,7 +140,7 @@ export const SALON_DATA = {
   address: "CC Fonte Nova, Estrada de Benfica 503, Loja 57, 1500-083 Lisboa",
   phoneNumber: "+351939559805",
   googleMapsUrl: "https://www.google.com/maps/dir//MORN+Barbearia+-+Centro+Comercial+Fonte+Nova+-+Benfica,+Centro+Comercial+Fonte+Nova,+Estr.+de+Benfica+503+Loja+57,+1500-083+Lisboa",
-  bookingUrl: "#", 
+  bookingUrl: "https://wa.me/351939559805?text=Olá! Gostaria de agendar um serviço na MORN Barbearia.", 
   mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3112.543412586716!2d-9.1973656!3d38.7470659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19335f606e1233%3A0x6a2c98e16663f707!2sMORN%20Barbearia%20-%20Centro%20Comercial%20Fonte%20Nova%20-%20Benfica!5e0!3m2!1spt!2spt!4v1740860000000",
   
   // NOVA PROPRIEDADE: IMAGENS PRINCIPAIS (Editáveis via Matrix)
